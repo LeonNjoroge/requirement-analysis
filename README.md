@@ -70,6 +70,9 @@ Examples for a Booking Management Project:
 - Security: All user data and transactions must be secured using encryption and secure APIs.
 - Data Consistency & Reliability: Systems like Kafka and Cassandra should ensure data integrity, even under heavy loads or failures.
 
+Use Case Diagrams
+https://postimg.cc/vxsWDs6t
+
 ## Acceptance Criteria
 Acceptance Criteria are a set of conditions that a software feature must meet to be accepted by stakeholders. They play a vital role in Requirement Analysis by clearly defining the scope, expectations, and testability of a feature.
 
